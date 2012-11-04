@@ -1,0 +1,13 @@
+{
+  "name": "con-come",
+  "description": "Take care your health",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/health.png"
+  },
+  "developer": {
+    "name": "NCTU",
+    "url": "http://github.com/johnshih/con-come"
+  },
+  "default_locale": "en"
+}
